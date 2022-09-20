@@ -22,6 +22,9 @@ header > img{
     width:9%;
     float: left;
 }
+header > img:hover{
+    border: 1px solid white;
+}
 header > button{
     text-align: center;
     margin-left: 77%;
@@ -29,8 +32,14 @@ header > button{
     color: white;
     border-color: transparent;
 }
+header > button:hover{
+    border: 1px solid white;
+}
 .darkbutton{
     color: yellow;
+}
+.darkbutton:hover{
+    border: 1px solid white;
 }
 #one{
     height: 110px;
@@ -212,4 +221,46 @@ header > button{
 }
 .darkanchor{
     color: white;
+}
+#placestay{
+    display: block;
+    color: white;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    float: left;
+}
+#temperature{
+    display: block;
+    color: white;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    float: left;
+}
+#loca{
+    color: white;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    float: left;
+    margin-left: 1%;
+    background-color: transparent;
+}
+#place{
+    color: white;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    float: left;
+    margin-left: 1%;
+    background-color: transparent;
+}
+#smalloca{
+    height: 26px;
+    width: 19%;
+    /* border: 1px solid white; */
+    margin-left: 10%;
+    margin-top: 1%;
+    font-size: 20px;
+}
+#smalloca:hover{
+    border: 1px solid white;
+}
+#moon{
+    display: block;
+    margin-top: -2.5%;
+    margin-left: 94%;
 }

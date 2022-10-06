@@ -1,0 +1,37 @@
+[
+    {
+        "seller_name": "Apple",
+        "seller_address": "Ug - 89, Pheonix Marketcity, Lal Bahadur Shastri Rd, Kurla, W, Maharashtra 400070",
+        "seller_id": 1,
+        "seller_rating": 4.5,
+        "customer_review": "Exchange process was seemless and we got a fair deal on old one. Hands down one of the best premium retailers of Apple in India.",
+        "item_categories": [
+            {
+                "item_categories_id" : 1,
+                "item_categories_name" : "Mobiles"
+            },
+            {
+                "item_categories_id" : 2,
+                "item_categories_name" : "Smartwatches"
+            }
+        ]
+    },
+    {
+        "seller_name": "Samsung",
+        "seller_address": "585, Sahakar Building, Kurla Station Rd, Brahmanwadi, Kurla, Mumbai, Maharashtra 400070",
+        "seller_id": 2,
+        "seller_rating": 4.4,
+        "customer_review": "Hands down one of the best premium retailers of Samsung in India.",
+        "item_categories": [
+            {
+                "item_categories_id" : 1,
+                "item_categories_name" : "Mobiles"
+            },
+            {
+                "item_categories_id" : 2,
+                "item_categories_name" : "Smartwatches"
+            }
+        ]
+    } 
+    
+]

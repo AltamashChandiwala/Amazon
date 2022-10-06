@@ -1,0 +1,583 @@
+[
+    {
+        "image": "https://i.ibb.co/DY359k7/1.jpg",
+        "product_name" : "Amazon Brand - Copper Brown Symbol Men Hooded Sweatshirt",
+        "stars": 4,
+        "new_price": 659,
+        "old price": 1999,
+        "discount": 67,
+        "special_offer": "Buy 3 get 10",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material - 65% Polyester and 35% Cotton;Regular fit, Full sleeve Sweatshirt",
+        "desc_2": "Hooded Sweatshirt for Men with Kangaroo Pocket;Pull Over Sweatshirt with Solid Pattern.",
+        "desc_3":"Suitable for winter wear, warm and soft.",
+        "desc_4": "Machine wash; Made in India",
+        "product_id": 1,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/DY359k7/1.jpg",
+            "https://i.ibb.co/XSzn5rp/2.jpg",
+            "https://i.ibb.co/9yCY4kN/3.jpg",
+            "https://i.ibb.co/C90TgcQ/4.jpg",
+            "https://i.ibb.co/CmJZxNS/5.jpg",
+            "https://i.ibb.co/SmGtWX1/6.jpg",
+            "https://i.ibb.co/MnM5M6p/7.jpg"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/RD6Dtqk/1.jpg",
+        "product_name" : "Amazon Brand - Black Symbol Men Hooded Sweatshirt",
+        "stars": 4,
+        "new_price": 659,
+        "old price": 1999,
+        "discount": 67,
+        "special_offer": "Buy 3 get 10",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material - 65% Polyester and 35% Cotton;Regular fit, Full sleeve Sweatshirt",
+        "desc_2": "Hooded Sweatshirt for Men with Kangaroo Pocket;Pull Over Sweatshirt with Solid Pattern.",
+        "desc_3":"Suitable for winter wear, warm and soft.",
+        "desc_4": "Machine wash; Made in India",
+        "product_id": 2,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/RD6Dtqk/1.jpg",
+            "https://i.ibb.co/ZcCsK7d/2.jpg",
+            "https://i.ibb.co/gyjDb6t/3.jpg",
+            "https://i.ibb.co/CPYXJcv/4.jpg",
+            "https://i.ibb.co/CmJZxNS/5.jpg",
+            "https://i.ibb.co/K9t3HBc/6.jpg"
+        ]
+
+    },
+    {
+        "image": "https://i.ibb.co/vjtQXr1/1.jpg",
+        "product_name" : "Amazon Brand - Amber Gold Symbol Men Hooded Sweatshirt",
+        "stars": 4,
+        "new_price": 659,
+        "old price": 1999,
+        "discount": 67,
+        "special_offer": "Buy 3 get 10",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material - 65% Polyester and 35% Cotton;Regular fit, Full sleeve Sweatshirt",
+        "desc_2": "Hooded Sweatshirt for Men with Kangaroo Pocket;Pull Over Sweatshirt with Solid Pattern.",
+        "desc_3":"Suitable for winter wear, warm and soft.",
+        "desc_4": "Machine wash; Made in India",
+        "product_id": 3,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/vjtQXr1/1.jpg",
+            "https://i.ibb.co/RvCrccB/2.jpg",
+            "https://i.ibb.co/cc1WJGJ/3.jpg",
+            "https://i.ibb.co/VYFXQMn/4.jpg",
+            "https://i.ibb.co/CmJZxNS/5.jpg",
+            "https://i.ibb.co/bv9chsH/6.jpg"
+        ]
+
+    },
+    {
+        "image": "https://i.ibb.co/PZWxghc/1.jpg",
+        "product_name" : "Amazon Brand - Fog Teal Symbol Men Hooded Sweatshirt",
+        "stars": 4,
+        "new_price": 659,
+        "old price": 1999,
+        "discount": 67,
+        "special_offer": "Buy 3 get 10",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material - 65% Polyester and 35% Cotton;Regular fit, Full sleeve Sweatshirt",
+        "desc_2": "Hooded Sweatshirt for Men with Kangaroo Pocket;Pull Over Sweatshirt with Solid Pattern.",
+        "desc_3":"Suitable for winter wear, warm and soft.",
+        "desc_4": "Machine wash; Made in India",
+        "product_id": 4,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/PZWxghc/1.jpg",
+            "https://i.ibb.co/Sys87pM/2.jpg",
+            "https://i.ibb.co/fH9TFCq/3.jpg",
+            "https://i.ibb.co/xLVbFkS/4.jpg",
+            "https://i.ibb.co/CmJZxNS/5.jpg",
+            "https://i.ibb.co/34NTC8Q/6.jpg"
+        ]
+        
+
+    },
+    {
+        "image": "https://i.ibb.co/K22YgnG/1.jpg",
+        "product_name" : "Amazon Brand - Tavasya womens Salwar suit",
+        "stars": 4,
+        "new_price": 534,
+        "old price": 2499,
+        "discount": 79,
+        "special_offer": "Buy 2 get 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Made in India",
+        "desc_2": "For best experience, do not soak the product before wash",
+        "desc_3":"Straight festive kurta set",
+        "desc_4": "Solid with printed chest yoke",
+        "product_id": 5,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/K22YgnG/1.jpg",
+            "https://i.ibb.co/4MVrNKr/2.jpg",
+            "https://i.ibb.co/xm4gBTC/3.jpg",
+            "https://i.ibb.co/DrbFxby/4.jpg",
+            "https://i.ibb.co/G3Vrc1P/5.jpg",
+            "https://i.ibb.co/jDBNG7g/6.jpg"
+        ]
+
+    },
+    {
+        "image": "https://i.ibb.co/VHwcbm6/1.jpg",
+        "product_name" : "Amazon Brand - Tavasya womens Salwar suit",
+        "stars": 4.5,
+        "new_price": 719,
+        "old price": 2599,
+        "discount": 72,
+        "special_offer": "Buy 2 get 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Made in India",
+        "desc_2": "For best experience, do not soak the product before wash",
+        "desc_3":"Straight festive kurta set",
+        "desc_4": "All over print",
+        "product_id": 6,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/VHwcbm6/1.jpg",
+            "https://i.ibb.co/DW15zNw/2.jpg",
+            "https://i.ibb.co/9bbNB6G/3.jpg",
+            "https://i.ibb.co/Jqgv17F/4.jpg",
+            "https://i.ibb.co/4V7tr3C/5.jpg",
+            "https://i.ibb.co/KxPvXBq/6.jpg",
+            "https://i.ibb.co/8rLmsc3/7.jpg"
+        ]
+
+    },
+    {
+        "image": "https://i.ibb.co/2kYY4jL/1.jpg",
+        "product_name" : "Amazon Brand - Eden & Ivy Women Pyjama Set",
+        "stars": 4.7,
+        "new_price": 400,
+        "old price": 1000,
+        "discount": 60,
+        "special_offer": "Buy 2 get 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Color Name: Navy",
+        "desc_2": "100% Cotton",
+        "desc_3":"Machine wash",
+        "desc_4": "Material: 100% Cotton",
+        "product_id": 7,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/2kYY4jL/1.jpg",
+            "https://i.ibb.co/xfRZmpd/2.jpg",
+            "https://i.ibb.co/MPNfMvM/3.jpg",
+            "https://i.ibb.co/tpCJRp4/4.jpg",
+            "https://i.ibb.co/WykM72w/5.jpg",
+            "https://i.ibb.co/rsDK628/6.jpg"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/B6kRJv9/1.jpg",
+        "product_name" : "Amazon Brand - Eden & Ivy Women Pyjama Set",
+        "stars": 4.7,
+        "new_price": 500,
+        "old price": 1000,
+        "discount": 50,
+        "special_offer": "Buy 2 get 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Color Name: Pink",
+        "desc_2": "100% Cotton",
+        "desc_3":"Machine wash",
+        "desc_4": "Material: 100% Cotton",
+        "product_id": 8,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/B6kRJv9/1.jpg",
+            "https://i.ibb.co/B24Jw69/2.jpg",
+            "https://i.ibb.co/nwgMz5z/3.jpg",
+            "https://i.ibb.co/72vkvVp/4.jpg",
+            "https://i.ibb.co/9ZWhxN8/5.jpg",
+            "https://i.ibb.co/pyfL21r/6.jpg"
+        ]
+
+    },
+    {
+        "image": "https://i.ibb.co/QkFm447/1.jpg",
+        "product_name" : "Amazon Men's Polyester Blend Two Piece Business Suit Pants Set",
+        "stars": 4,
+        "new_price": 3849,
+        "old price": 6999,
+        "discount": 45,
+        "special_offer": "Buy and get instant 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material Composition : 64% Polyester, 34% Viscose, 2% Spandex",
+        "desc_2": "Style : Two Piece Suit",
+        "desc_3":"Care Instructions : Dry Clean Only",
+        "desc_4": "Fit Type : Regular",
+        "product_id": 9,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/QkFm447/1.jpg",
+            "https://i.ibb.co/fMRMsyC/2.jpg",
+            "https://i.ibb.co/C6dxhtx/3.jpg",
+            "https://i.ibb.co/SX9QWMT/4.jpg",
+            "https://i.ibb.co/1bFDRrf/5.jpg",
+            "https://i.ibb.co/Nr1LKWX/6.jpg"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/zrQTF5h/1.jpg",
+        "product_name" : "Amazon Blue Men's 2 Piece Regular Fit Suit Set with Coat and Trouser",
+        "stars": 4.1,
+        "new_price": 3499,
+        "old price": 6999,
+        "discount": 50,
+        "special_offer": "Buy and get instant 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material Composition : Poly Viscose",
+        "desc_2": "Pattern : Solid",
+        "desc_3":"Care Instructions : Dry Clean Only",
+        "desc_4": "Fit Type : Regular",
+        "product_id": 10,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/zrQTF5h/1.jpg",
+            "https://i.ibb.co/VC4fNX3/2.jpg",
+            "https://i.ibb.co/Z6G1mQt/3.jpg",
+            "https://i.ibb.co/RvNcGvS/4.jpg",
+            "https://i.ibb.co/7zX5Xdn/5.jpg",
+            "https://i.ibb.co/c1nc8tJ/6.jpg"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/2sRB9Pg/1.jpg",
+        "product_name" : "Amazon Pink Women's 2 Piece Regular Fit Suit Set with Coat and Trouser",
+        "stars": 4.1,
+        "new_price": 3499,
+        "old price": 6999,
+        "discount": 50,
+        "special_offer": "Buy and get instant 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material Composition : Poly Viscose",
+        "desc_2": "Pattern : Solid",
+        "desc_3":"Care Instructions : Dry Clean Only",
+        "desc_4": "Fit Type : Regular",
+        "product_id": 11,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/2sRB9Pg/1.jpg",
+            "https://i.ibb.co/9y1172z/2.jpg",
+            "https://i.ibb.co/S3pVB2L/3.jpg",
+            "https://i.ibb.co/jVnJgWm/4.jpg"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/FYnPPLD/1.jpg",
+        "product_name" : "Amazon Black Women's 2 Piece Regular Fit Suit Set with Coat and Trouser",
+        "stars": 4.1,
+        "new_price": 3499,
+        "old price": 6999,
+        "discount": 50,
+        "special_offer": "Buy and get instant 5",
+        "delivery_type": "Free delivery by Amazon",
+        "desc_1": "Material Composition : Poly Viscose",
+        "desc_2": "Pattern : Solid",
+        "desc_3":"Care Instructions : Dry Clean Only",
+        "desc_4": "Fit Type : Regular",
+        "product_id": 12,
+        "category_id": 6,
+        "image_gallery":[
+            "https://i.ibb.co/7SpYLwj/1.jpg",
+            [
+                "https://i.ibb.co/HPgmbvW/2.jpg",
+                "https://i.ibb.co/DbGWPRD/3.jpg",
+                "https://i.ibb.co/J5JwMGD/4.jpg",
+                "https://i.ibb.co/9NCwpgT/5.jpg"
+            ],
+            [
+                "https://i.ibb.co/x6Dyw3K/6.jpg",
+                "https://i.ibb.co/xjHSr6c/7.jpg"
+            ],
+            [
+                "https://i.ibb.co/tpStHSn/8.jpg",
+                "https://i.ibb.co/br3chby/9.jpg",
+                "https://i.ibb.co/6FxhGMV/10.jpg"
+            ],
+            [
+                "https://i.ibb.co/d09NY6w/11.jpg",
+                "https://i.ibb.co/GtGrWJF/12.jpg",
+                "https://i.ibb.co/k5hvMJF/13.jpg",
+                "https://i.ibb.co/DDwQBCY/14.jpg"
+            ]
+        ],
+        "desc_img":[
+            "https://i.ibb.co/FYnPPLD/1.jpg",
+            "https://i.ibb.co/thHby28/2.jpg",
+            "https://i.ibb.co/fHy6SzY/3.jpg",
+            "https://i.ibb.co/nz355zx/4.jpg"
+        ]
+    } 
+]
